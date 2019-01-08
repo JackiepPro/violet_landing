@@ -1,0 +1,1 @@
+let directions = {    37: "left",    38: "up",    39: "right",    40: "down"};//задаем обработчик события keydown (клавиши-стрелки)$("body").keydown(function (event) {    console.log(directions[event.keyCode]);});

@@ -1,0 +1,217 @@
+@media (min-width: 1680px) and (max-width: 1920px) {
+  .intro {
+    min-height: 1072px; }
+    .intro .block-main-intro {
+      height: 800px; }
+    .intro .icon {
+      width: 200px;
+      height: 50px;
+      padding: 9px 0; }
+      .intro .icon .icon-p {
+        font-size: 10px; }
+    .intro .block-main h1 {
+      font-size: 4em; }
+
+  .block-1 .block-text .block-text__ul {
+    padding: 40px 0 0 765px; }
+    .block-1 .block-text .block-text__ul li span:last-child {
+      font-size: 28px; }
+    .block-1 .block-text .block-text__ul li:last-child {
+      font-size: 20px; }
+  .block-1 .sportsman {
+    max-width: 555px; }
+
+  .block-2 .block-text .block-text__ul {
+    padding: 35px 0 0 60px; }
+    .block-2 .block-text .block-text__ul li span:last-child {
+      font-size: 28px; }
+    .block-2 .block-text .block-text__ul li:last-child {
+      font-size: 20px; }
+
+  .block-3 .box-image .box-image-person, .block-3 .box-image .box-text {
+    max-width: 960px; }
+  .block-3 .box-image .box-text .number {
+    left: -75px;
+    padding: 50px 60px;
+    font-size: 22px;
+    bottom: -45px; }
+    .block-3 .box-image .box-text .number .heading {
+      font-size: 6em; }
+  .block-3 .box-image .box-text p {
+    font-size: 24px;
+    padding: 0 0 0 145px; }
+  .block-3 .box-image .box-text-flex {
+    width: 50%;
+    height: 100%;
+    min-height: 550px; }
+    .block-3 .box-image .box-text-flex p {
+      font-size: 24px;
+      padding: 0 140px 0 40px; }
+    .block-3 .box-image .box-text-flex .number {
+      padding: 50px 60px;
+      font-size: 22px;
+      left: 70px; } }
+@media (max-width: 1366px) {
+  .intro {
+    height: 100%; }
+    .intro .block-main {
+      width: 100%; }
+      .intro .block-main h1 {
+        margin: 0;
+        line-height: 1;
+        font-size: 3em; }
+        .intro .block-main h1:first-child, .intro .block-main h1:last-child {
+          text-align: center; }
+
+  .heading {
+    font-size: 2em; }
+
+  .block-1 {
+    height: 100%;
+    padding: 0; }
+    .block-1 .block-text .block-text__ul {
+      padding: 60px 0 0 570px; }
+    .block-1 .block-1__img .sportsman {
+      max-width: 20em; }
+    .block-1 .block-text .block-text__ul {
+      padding: 22px 0 0 400px;
+      height: 120px; }
+      .block-1 .block-text .block-text__ul li:last-child {
+        font-size: 12px; }
+
+  .block-2 {
+    height: 100%;
+    padding: 0; }
+    .block-2 .block-text .block-text__ul {
+      height: 120px;
+      padding: 22px 0 0 60px; }
+      .block-2 .block-text .block-text__ul li:last-child {
+        font-size: 12px; }
+    .block-2 .block-2__img {
+      float: right; }
+      .block-2 .block-2__img .sportsman {
+        max-width: 30em; }
+
+  .block-3 .box-image .box-text, .block-3 .box-image .box-image-person {
+    min-height: 400px; }
+
+  .block-end .logo svg {
+    height: 60px; }
+  .block-end .block-main-end .footer-text h1 {
+    font-size: 3em; } }
+@media (max-width: 1200px) {
+  .block-1 .block-text .block-text__ul {
+    padding: 22px 0 0 500px; }
+
+  .block-2 .block-2__img .sportsman {
+    max-width: 36em; }
+
+  .block-3 .box-image .box-text {
+    min-height: 400px; }
+  .block-3 .box-text-flex p {
+    padding: 0 100px 0 100px;
+    text-align: right; } }
+@media (min-width: 768px) and (max-width: 1024px) {
+  .intro .block-main h1 {
+    font-size: 2em; }
+
+  .block-1 .block-1__img {
+    padding: 10px 0; }
+    .block-1 .block-1__img .sportsman {
+      left: -53px; }
+  .block-1 .block-text .block-text__ul {
+    padding: 10px 0 0 300px; }
+    .block-1 .block-text .block-text__ul .heading {
+      font-size: 3em; }
+
+  .block-2 .block-2__img .sportsman {
+    max-width: 30em; }
+  .block-2 .block-text .block-text__ul .heading {
+    font-size: 3em; }
+
+  .block-3 .box-text .violet .heading {
+    font-size: 3em; } }
+@media (max-width: 996px) {
+  .block-3 .box-image .box-text, .block-3 .box-image .box-image-person {
+    min-height: 200px; } }
+@media (max-width: 812px) {
+  .intro .block-main h1 {
+    font-size: 2em; }
+
+  .block-1 .block-1__img {
+    text-align: center; }
+    .block-1 .block-1__img .sportsman {
+      max-width: 12em; }
+  .block-1 .block-text {
+    position: static; }
+    .block-1 .block-text .block-text__ul {
+      min-height: 115px;
+      height: 100%;
+      padding: 22px; }
+      .block-1 .block-text .block-text__ul:first-child {
+        text-align: center; }
+      .block-1 .block-text .block-text__ul li:last-child {
+        font-size: 14px; }
+
+  .block-2 .block-2__img {
+    float: none; }
+  .block-2 .block-text .block-text__ul {
+    min-height: 115px;
+    height: 100%;
+    padding: 22px; }
+    .block-2 .block-text .block-text__ul:first-child {
+      text-align: center; }
+    .block-2 .block-text .block-text__ul li:last-child {
+      font-size: 14px; }
+
+  .block-3 .number {
+    display: none; }
+  .block-3 .box-image .box-image-person, .block-3 .box-image .box-text {
+    min-height: 160px; }
+  .block-3 .box-text p, .block-3 .box-text-flex p {
+    padding: 0 10px 0 10px;
+    margin: 0; }
+  .block-3 .box-text .violet, .block-3 .box-text-flex .violet {
+    margin: 10px; }
+    .block-3 .box-text .violet .heading, .block-3 .box-text-flex .violet .heading {
+      font-size: 1em; }
+
+  .block-end {
+    min-height: 400px; }
+    .block-end .logo svg {
+      height: 50px;
+      margin: 0 15px 0 0; }
+    .block-end .block-main-end {
+      height: 400px;
+      justify-content: space-evenly; }
+      .block-end .block-main-end .footer-text h1 {
+        font-size: 2em; }
+    .block-end .icon {
+      width: 100%;
+      max-width: 200px; } }
+@media (max-width: 568px) {
+  .intro .block-main h1:first-child, .intro .block-main h1:last-child {
+    font-size: 26px; }
+  .intro .icon .icon-p {
+    padding-left: 40px; }
+
+  .block-1 .block-text .block-text__ul .heading {
+    font-size: 3em; }
+
+  .block-2 .block-text .block-text__ul .heading {
+    font-size: 3em; }
+
+  .block-3 .box-image .box-image-person, .block-3 .box-image .box-text {
+    height: 100%;
+    min-height: 148px; }
+
+  .block-end .block-main-end .footer-text h1 {
+    font-size: 22px; }
+  .block-end .footer-text .p-footer {
+    font-size: 13px; }
+  .block-end .logo svg {
+    height: 37px; }
+  .block-end .icon .icon-p {
+    padding-left: 43px; } }
+
+/*# sourceMappingURL=media.css.map */
